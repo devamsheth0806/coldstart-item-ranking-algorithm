@@ -27,6 +27,7 @@ This repository implements an advanced recommender system that addresses the col
 - `alpha_per_user.png` - line plot to visualize $\alpha$ values for each cold user.
 - `base_line.slurm` - SLURM script to execute baseline code in High-Processing Compute supporting SLURM resource manager
 - `plot_alpha.py` - to plot the $\alpha$ values from optimized_alphas.csv
+- `Project Report.pdf` - Report containing information regarding this project.
 
 ---
 
