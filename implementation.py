@@ -13,7 +13,6 @@ import warnings
 from surprise import SVD, Reader, accuracy, Dataset
 from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import cosine_similarity
-import pickle
 from collections import defaultdict
 from sklearn.metrics import silhouette_score
 from sklearn.decomposition import PCA
